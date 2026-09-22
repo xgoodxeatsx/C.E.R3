@@ -1,0 +1,180 @@
+{
+  "project": "Cobblemon: Ecological Resonance (C.E.R.)",
+  "update_date": "2026-09-14",
+  "source_batch": "Update for chat.zip",
+  "status": "Integrated source batch / current working source set",
+  "notes": [
+    "Treat this batch as the current September 14, 2026 source set for project work.",
+    "Master Archive Parts 1\u201317 are included.",
+    "Governance, authorities, change log, interaction archive, mod index, open questions, sweep findings, and reconciliation documents are included.",
+    "Do not treat UNINTEGRATED sweep findings or reconciliation reports as automatically authoritative over locked Master Archive material; use them as review/governance inputs unless they explicitly record an adopted change.",
+    "New concepts adopted by the batch should be distinguished from proposals and unresolved questions by their status markers."
+  ],
+  "files": [
+    {
+      "file": "Authorities_Archive.docx",
+      "bytes": 28204,
+      "sha256": "6b9a0743a7563bd6ff7ad1af08476bdf9773fdf6641ebe9fffb94bdbdfd55767"
+    },
+    {
+      "file": "CER_Open_Questions_and_Loose_Ends.docx",
+      "bytes": 13098,
+      "sha256": "8bce5552842f1b28caa1c90a0afb15846e05968cfb498b11c645f43f070fddf9"
+    },
+    {
+      "file": "CER_Reintegration_Sweep_Findings.docx",
+      "bytes": 12806,
+      "sha256": "98925fe1948ff49296d47a956a4648d61cad69f7163cdad5c18f3b6498967051"
+    },
+    {
+      "file": "Change_Log_Archive.docx",
+      "bytes": 64161,
+      "sha256": "d0289ab5da23cfb440b8801e25cd85a1646d9b9010871b22e4e29046206ba5fb"
+    },
+    {
+      "file": "ChatGPT_Reconciliation_Report.docx",
+      "bytes": 11367,
+      "sha256": "a83ded186e68af185f8555d6cb4dae63afd0bb7241b1ca1ae548f4bbf1814bff"
+    },
+    {
+      "file": "Cobblemon_Deep_Dive.docx",
+      "bytes": 26042,
+      "sha256": "c8c6d55e8322de5a0b9304a67937019728b799608e1d0a68ebe19a5e09ff4c98"
+    },
+    {
+      "file": "EcoRe_Full_Sweep_Findings_UNINTEGRATED.md",
+      "bytes": 9341,
+      "sha256": "ffc8e5c4e5db96d9e6ee8e05ef5d480387aa16500c2758c98507e5b2d028254b"
+    },
+    {
+      "file": "EcoRe_Landmark_Build_Guide.md",
+      "bytes": 13080,
+      "sha256": "cbe30fbbbea36510743bf585ca6c37217a679780cd7af20567df5514b061ff85"
+    },
+    {
+      "file": "EcoRe_Landmark_Build_Guide_AllSixZones.md",
+      "bytes": 9244,
+      "sha256": "0506ff7207e625a165ea54cf0598d599d9cd351b64305d55486153a1d72cc2ec"
+    },
+    {
+      "file": "EcoRe_Open_Questions_and_Gaps.md",
+      "bytes": 5932,
+      "sha256": "831a3d82c2d5f4d9a007af69b0eb270a9bcd3176b853e343341c91dca742c54b"
+    },
+    {
+      "file": "Interaction_Archive.docx",
+      "bytes": 11086,
+      "sha256": "e15f9ba09e23eb854c2b43976e95819565855aa631348d41a005fee7abf82f52"
+    },
+    {
+      "file": "Master_Archive_Part1.docx",
+      "bytes": 18574,
+      "sha256": "856e74e2ba79bce09f168a564d1daf3ce178917b4707646626b45c503f8fcc8f"
+    },
+    {
+      "file": "Master_Archive_Part10.docx",
+      "bytes": 20768,
+      "sha256": "4649a2494b605bcd464f3679dd81b218ead74598f2a763e410e0414697fc3e28"
+    },
+    {
+      "file": "Master_Archive_Part11.docx",
+      "bytes": 12934,
+      "sha256": "457985a7b7091c54aa9708274cc27bc483646fc0cdf1654f2bcfb89938bd1cff"
+    },
+    {
+      "file": "Master_Archive_Part12.docx",
+      "bytes": 17101,
+      "sha256": "e4399016474024f72ffe0383d696e79774be2550b8061747d125097efe41670d"
+    },
+    {
+      "file": "Master_Archive_Part13.docx",
+      "bytes": 15070,
+      "sha256": "c01c595c7ce788e3c3f432e6a197b8660b7218b14991b3b0bc568ba3e11dd4d2"
+    },
+    {
+      "file": "Master_Archive_Part14.docx",
+      "bytes": 15468,
+      "sha256": "b2c49a225fcdec0f2ce1048ed1971dd7056644e47ab1ce9f53e98af16ebdb58d"
+    },
+    {
+      "file": "Master_Archive_Part15.docx",
+      "bytes": 16027,
+      "sha256": "cb8b6b6aaeb9c34d10bc5e2f8aa42c914ecf0517cb6d8fc6895915dc8e2dbc0d"
+    },
+    {
+      "file": "Master_Archive_Part16.docx",
+      "bytes": 14783,
+      "sha256": "861b31c0e900b814de87eaf0fbf8d7982a0b3dbfdde4f217f0cd086d6e5e3288"
+    },
+    {
+      "file": "Master_Archive_Part17.docx",
+      "bytes": 17304,
+      "sha256": "7c878812203ae3ca74001f639b142bec82fb51689aa62f4c9660bd9e459e1bd9"
+    },
+    {
+      "file": "Master_Archive_Part2.docx",
+      "bytes": 28923,
+      "sha256": "c0bb844c8498ff4dbbd7cc57ae5f5506671692e9150e52d948e7f71070a03bd6"
+    },
+    {
+      "file": "Master_Archive_Part3.docx",
+      "bytes": 26430,
+      "sha256": "b8e30170f084cb843fdc78ee779c1431d086c4a529656cebffed3d6fbb7c92cd"
+    },
+    {
+      "file": "Master_Archive_Part4.docx",
+      "bytes": 22872,
+      "sha256": "efc70ac0e8a27b4febf19e340f4d534c531d29bbe1cfa31c47983e79d7cf0aaf"
+    },
+    {
+      "file": "Master_Archive_Part5.docx",
+      "bytes": 17042,
+      "sha256": "e30c469adbc471755da89d31f0e577b3381ed977e0d9e7e532c000595c784139"
+    },
+    {
+      "file": "Master_Archive_Part6.docx",
+      "bytes": 26766,
+      "sha256": "5007f73795848ea692b72bde2caa044006e58d3943f42de75abc877ed1ea86e8"
+    },
+    {
+      "file": "Master_Archive_Part7.docx",
+      "bytes": 15499,
+      "sha256": "c8d4f61c5b317032aa82dd8e7a798da8306281662a38dd93fc3e48b6254ef92f"
+    },
+    {
+      "file": "Master_Archive_Part8.docx",
+      "bytes": 18256,
+      "sha256": "67bb24834cab59ad7e216c32471af9ff6e5d418252597f19464213a0ff07f796"
+    },
+    {
+      "file": "Master_Archive_Part9.docx",
+      "bytes": 28944,
+      "sha256": "94269f8649787491f66bc216573e41d4c365d06a8aac52b04ab9add38fa187ec"
+    },
+    {
+      "file": "Master_Mod_Index.docx",
+      "bytes": 40339,
+      "sha256": "9cd4a140a0f5fb72b7513f03ea83821f6d559d16239495be8bbb3fb65a520eb8"
+    },
+    {
+      "file": "Missed_Questions.docx",
+      "bytes": 10674,
+      "sha256": "03a6cba97d747e8cf6cc2f7394f5fe706e189b6afd1ca6ced0ff39fedaed60e0"
+    },
+    {
+      "file": "Project_Governance_Protocol.docx",
+      "bytes": 17000,
+      "sha256": "e0087d85f973d5ddb2005e244ed052b491231abe11c5b66f83df263890459be2"
+    },
+    {
+      "file": "Supplemental_Archive.docx",
+      "bytes": 11639,
+      "sha256": "e18d4ad8675bfc19468a3ff2d629e4fb0274a07bffe984e4e245a30494a60ced"
+    },
+    {
+      "file": "page-1.jpg",
+      "bytes": 108051,
+      "sha256": "4a47c719609f420195947cffa3e9dd8026f0f446e02c927862447cc0403c2f79"
+    }
+  ]
+}
